@@ -129,7 +129,7 @@
         app:layout_constraintBottom_toTopOf="@+id/nomeText2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.585"
-        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintStart_toEndOf="@+id/textCardapio"
         app:layout_constraintTop_toBottomOf="@+id/entButton"
         app:layout_constraintVertical_bias="0.333" />
 
